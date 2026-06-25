@@ -22,3 +22,5 @@ site
 .mypy_cache
 
 .coverage
+
+db.sqlite
